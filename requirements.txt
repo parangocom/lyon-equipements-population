@@ -1,0 +1,13 @@
+# Needed to run the notebook's code cells (versions intentionally not pinned)
+pandas
+numpy
+matplotlib
+fanalysis
+
+# Imported in the notebook's first cell (KMeans, scipy.stats, CA) but not used afterwards;
+# required only so that this import cell runs
+scikit-learn
+scipy
+
+# Only needed to open and run the notebook itself
+notebook
